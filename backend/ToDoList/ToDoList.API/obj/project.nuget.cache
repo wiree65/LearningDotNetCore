@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdYMwf3RbVy4nE1BP5C6bBH+BZtu5E394W8bQ9V8TTjtmOwKpRuRCOVK3ETaCA9KGd3UEKtXYLWfdovE1GPdvQ==",
+  "success": true,
+  "projectFilePath": "/Users/wiree/Downloads/toDoList/backend/ToDoList/ToDoList.API/ToDoList.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/wiree/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/wiree/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/wiree/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/wiree/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/wiree/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/wiree/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
